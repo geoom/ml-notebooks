@@ -2,3 +2,5 @@
 .env
 AutogluonModels
 .DS_Store
+.kaggle
+kaggle.json
